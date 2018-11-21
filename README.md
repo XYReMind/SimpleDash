@@ -9,5 +9,5 @@ python3/python app.py
 Then open the port shown on the terminal  
 
 The basic.app is a dashboard of stock ticker    
-the step is the same as the frist one 
+the step is the same as the frist one, execept run python3/python basic.py 
 
