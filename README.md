@@ -6,4 +6,4 @@ pip3/pip install -r requirements.txt
 
 python3/python app.py
 
-The open the port shown on the terminal 
+Then open the port shown on the terminal 
